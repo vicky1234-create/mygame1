@@ -1,0 +1,5 @@
+Game_name:新的游戏;
+Game_key:3d8ad7bee45dc7a;
+Title_img:3f3357cf8519a6163b2fa33f840ac77e.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;

@@ -1,0 +1,14 @@
+intro:你好，欢迎。
+  -fontSize=medium
+  -backgroundColor=rgba(0, 0, 0, 1)
+  -fontColor=rgba(255, 255, 255, 1)
+  -animation=fadeIn
+  -delayTime=1500;
+changeBg:d79043d2af9ca9c7860a484832e84170.png -next;
+changeFigure:remove-photos-background-removed.png
+  -id=1
+  -transform={"position":{"x":570,"y":280},"scale":{"x":1.02},"alpha":1}
+  -next;
+松鼠（你）:我是松鼠。;
+你:周末了，做点什么好呢？;
+choose:选项1：去郊外:1_1garden.txt|选项2：去商场:1_2market.txt;

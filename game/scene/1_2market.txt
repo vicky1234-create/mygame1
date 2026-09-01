@@ -1,0 +1,15 @@
+changeBg:f7066b629d083abd7f2674bd8845ff97.png -next;
+:商场;
+changeFigure:remove-photos-background-removed.png
+  -transform={"position":{"x":570,"y":280}}
+  -next; -sayPlaceHolder;
+你:人好多，去化妆品店逛逛;
+changeBg:38c1d35fe99ba2cf76d9194bd5bd05f5.jpg -next;
+changeFigure:选择立绘文件 -next;
+:精油专柜;
+changeFigure:remove.photos-removed-background.png
+  -transform={"position":{"x":541,"y":-60},"scale":{"x":1.7,"y":1.7}}
+  -next;
+未知:你也在看这款精油吗;
+未知:因为太喜欢精油了，所以我改名叫陈精油;
+陈精油:我能搬去你家住吗？;
